@@ -42,7 +42,7 @@ Jupyter / Colab – for SQL execution and preprocessing
 
  Fraud by Transaction Amount Bucket
 
-🏷 Merchant Category Fraud Rate
+ Merchant Category Fraud Rate
 
  Job vs Fraud Count
 
